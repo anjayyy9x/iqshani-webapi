@@ -1,0 +1,14 @@
+upload project
+git init
+git remote add origin [url_git]
+git add --all
+git commit -m "init"
+git push -u origin master
+
+git init
+git remote add origin [url_git]
+git add --all
+git config user.mail [email]
+git config user.name [username]
+git commit -m "init"
+git push -u origin master
